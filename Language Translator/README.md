@@ -1,12 +1,18 @@
-# Language Translator with Generative AI
+# Language Translator using Gemma2-9b-It from Groq
 This project implements a generative AI application for language translation, utilizing FastAPI for backend endpoints and Streamlit for the frontend UI. The application allows users to specify the target language and input text for translation.
 
-# Technologies Used:
-FastAPI: Python web framework for building APIs with fast performance.
+# Frameworks and Technologies:
+FastAPI: Python web framework for building APIs with high performance and easy deployment.
 
-Streamlit: Python library for creating interactive web apps for machine learning and data science.
+Streamlit: Python library for creating interactive web apps for machine learning and data science projects.
 
-Generative AI: Utilized for language translation using advanced machine learning models.
+LangChain: Framework used for implementing the project with LangServe enabled for application tracing.
+
+Lang Chain Expression Language (LCEL): Implements a chain prompt_template|model|output_parser for enhanced functionality.
+
+LLM Model: Gemma2-9b-It from Groq. 
+
+Tracing
 
 # Features:
 Translation Endpoint: Accepts requests to translate text into specified languages.
