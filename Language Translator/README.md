@@ -3,7 +3,9 @@ This project implements a generative AI application for language translation, ut
 
 # Technologies Used:
 FastAPI: Python web framework for building APIs with fast performance.
+
 Streamlit: Python library for creating interactive web apps for machine learning and data science.
+
 Generative AI: Utilized for language translation using advanced machine learning models.
 
 # Features:
