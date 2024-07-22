@@ -12,12 +12,12 @@ Lang Chain Expression Language (LCEL): Implements a chain prompt_template|model|
 
 LLM Model: Gemma2-9b-It from Groq. 
 
-Tracing
-
 # Features:
 Translation Endpoint: Accepts requests to translate text into specified languages.
 
 Interactive UI: Streamlit-based frontend provides a user-friendly interface for translation input and display.
+
+LangServe Tracing: Enables application tracing for monitoring and performance optimization.
 
 # Installation:
 **Clone the repository:**
