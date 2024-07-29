@@ -7,4 +7,3 @@ langchain_huggingface
 langchain_chroma
 langchain-groq
 streamlit
-sqlite3==3.35.0
