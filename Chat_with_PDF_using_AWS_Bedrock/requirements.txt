@@ -1,0 +1,7 @@
+boto3 # This will help us connect to all services in AWS Bedrock
+awscli
+pypdf
+langchain
+streamlit
+faiss-cpu
+langchain_community
